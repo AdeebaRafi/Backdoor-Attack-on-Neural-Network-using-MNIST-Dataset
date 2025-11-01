@@ -1,4 +1,4 @@
-# Backdoor Attack on Neural Network using MNIST Dataset
+# Backdoor Attack on Neural Network using MNIST Dataset:
 ## Description
 
 This project shows how a small hidden pattern in training data can trick a deep learning model.
