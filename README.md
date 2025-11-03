@@ -1,5 +1,5 @@
 # Backdoor Attack on Neural Network using MNIST Dataset:
-## Description
+## Description:
 
 This project shows how a small hidden pattern in training data can trick a deep learning model.
 It uses the MNIST handwritten digit dataset to build a neural network in PyTorch and then adds a simple backdoor trigger.
