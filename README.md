@@ -55,7 +55,7 @@ Training Samples: 60,000
 
 Test Samples: 10,000
 
-## Results
+## Results:
 
 Clean model accuracy: Around 97% on normal MNIST data
 
